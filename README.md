@@ -16,4 +16,4 @@ The goal of this task was to build a real-time collaborative document editor, al
 
 #OUTPUT OF THE TASK 
 
-   
+   ![Screenshot (84)](https://github.com/user-attachments/assets/a7e13341-dd29-41c4-9ba1-67533531282b)
